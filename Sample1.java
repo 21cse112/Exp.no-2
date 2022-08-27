@@ -4,7 +4,7 @@ public class Sample1 {
     public static void main(String[] args){
         int p,newsal;
         Scanner in=new Scanner(System.in);
-        Employee obj=new Employee(1,"jaswanth","lal",10000);
+        Employee obj=new Employee(1,"kathier","khamar",50000);
         System.out.println(obj.getID());
         System.out.println(obj.getFirstName());
         System.out.println(obj.getLastName());
